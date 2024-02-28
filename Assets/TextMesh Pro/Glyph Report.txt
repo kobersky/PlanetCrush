@@ -1,0 +1,23 @@
+Font: Gleeful Bubble  Style: Regular
+Point Size: 97   SP/PD Ratio: 5.2%
+
+Characters included: 88/99
+Missing characters: 11
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+ID: 37	Hex: 25	Char [%]
+ID: 43	Hex: 2B	Char [+]
+ID: 60	Hex: 3C	Char []
+ID: 61	Hex: 3D	Char [=]
+ID: 62	Hex: 3E	Char [>]
+ID: 94	Hex: 5E	Char [^]
+ID: 96	Hex: 60	Char [`]
+ID: 126	Hex: 7E	Char [~]
+ID: 8203	Hex: 200B	Char [​]
+ID: 8230	Hex: 2026	Char […]
+ID: 9633	Hex: 25A1	Char [□]
+
+Characters excluded from packing:
+----------------------------------------
